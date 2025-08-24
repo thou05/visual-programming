@@ -1,0 +1,10 @@
+D:\Document\visual-programming\code\Bai2-toado\Bai2-toado\bin\Debug\Bai2-toado.exe.config
+D:\Document\visual-programming\code\Bai2-toado\Bai2-toado\bin\Debug\Bai2-toado.exe
+D:\Document\visual-programming\code\Bai2-toado\Bai2-toado\bin\Debug\Bai2-toado.pdb
+D:\Document\visual-programming\code\Bai2-toado\Bai2-toado\obj\Debug\Bai2-toado.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Bai2-toado\Bai2-toado\obj\Debug\Bai2_toado.Form1.resources
+D:\Document\visual-programming\code\Bai2-toado\Bai2-toado\obj\Debug\Bai2_toado.Properties.Resources.resources
+D:\Document\visual-programming\code\Bai2-toado\Bai2-toado\obj\Debug\Bai2-toado.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\Bai2-toado\Bai2-toado\obj\Debug\Bai2-toado.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Bai2-toado\Bai2-toado\obj\Debug\Bai2-toado.exe
+D:\Document\visual-programming\code\Bai2-toado\Bai2-toado\obj\Debug\Bai2-toado.pdb

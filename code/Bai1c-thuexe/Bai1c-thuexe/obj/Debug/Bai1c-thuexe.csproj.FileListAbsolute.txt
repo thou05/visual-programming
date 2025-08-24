@@ -1,0 +1,8 @@
+D:\Document\visual-programming\code\Bai1c-thuexe\Bai1c-thuexe\bin\Debug\Bai1c-thuexe.exe.config
+D:\Document\visual-programming\code\Bai1c-thuexe\Bai1c-thuexe\bin\Debug\Bai1c-thuexe.exe
+D:\Document\visual-programming\code\Bai1c-thuexe\Bai1c-thuexe\bin\Debug\Bai1c-thuexe.pdb
+D:\Document\visual-programming\code\Bai1c-thuexe\Bai1c-thuexe\obj\Debug\Bai1c-thuexe.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Bai1c-thuexe\Bai1c-thuexe\obj\Debug\Bai1c-thuexe.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Bai1c-thuexe\Bai1c-thuexe\obj\Debug\Bai1c-thuexe.exe
+D:\Document\visual-programming\code\Bai1c-thuexe\Bai1c-thuexe\obj\Debug\Bai1c-thuexe.pdb
+D:\Document\visual-programming\code\Bai1c-thuexe\Bai1c-thuexe\obj\Debug\Bai1c-thuexe.exe.config

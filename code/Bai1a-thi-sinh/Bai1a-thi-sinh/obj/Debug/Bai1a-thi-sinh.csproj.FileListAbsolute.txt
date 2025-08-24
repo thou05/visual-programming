@@ -1,0 +1,8 @@
+D:\Document\visual-programming\code\Bai1a-thi-sinh\Bai1a-thi-sinh\bin\Debug\Bai1a-thi-sinh.exe.config
+D:\Document\visual-programming\code\Bai1a-thi-sinh\Bai1a-thi-sinh\bin\Debug\Bai1a-thi-sinh.exe
+D:\Document\visual-programming\code\Bai1a-thi-sinh\Bai1a-thi-sinh\bin\Debug\Bai1a-thi-sinh.pdb
+D:\Document\visual-programming\code\Bai1a-thi-sinh\Bai1a-thi-sinh\obj\Debug\Bai1a-thi-sinh.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Bai1a-thi-sinh\Bai1a-thi-sinh\obj\Debug\Bai1a-thi-sinh.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Bai1a-thi-sinh\Bai1a-thi-sinh\obj\Debug\Bai1a-thi-sinh.exe
+D:\Document\visual-programming\code\Bai1a-thi-sinh\Bai1a-thi-sinh\obj\Debug\Bai1a-thi-sinh.pdb
+D:\Document\visual-programming\code\Bai1a-thi-sinh\Bai1a-thi-sinh\obj\Debug\Bai1a-thi-sinh.exe.config

@@ -1,0 +1,7 @@
+D:\Document\visual-programming\code\CawnHoHCN\CawnHoHCN\bin\Debug\CawnHoHCN.exe.config
+D:\Document\visual-programming\code\CawnHoHCN\CawnHoHCN\bin\Debug\CawnHoHCN.exe
+D:\Document\visual-programming\code\CawnHoHCN\CawnHoHCN\bin\Debug\CawnHoHCN.pdb
+D:\Document\visual-programming\code\CawnHoHCN\CawnHoHCN\obj\Debug\CawnHoHCN.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\CawnHoHCN\CawnHoHCN\obj\Debug\CawnHoHCN.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\CawnHoHCN\CawnHoHCN\obj\Debug\CawnHoHCN.exe
+D:\Document\visual-programming\code\CawnHoHCN\CawnHoHCN\obj\Debug\CawnHoHCN.pdb

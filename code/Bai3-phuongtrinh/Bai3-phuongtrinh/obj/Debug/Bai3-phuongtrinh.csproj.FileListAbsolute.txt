@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\Bai3-phuongtrinh\Bai3-phuongtrinh\bin\Debug\Bai3-phuongtrinh.exe.config
+D:\Document\visual-programming\code\Bai3-phuongtrinh\Bai3-phuongtrinh\bin\Debug\Bai3-phuongtrinh.exe
+D:\Document\visual-programming\code\Bai3-phuongtrinh\Bai3-phuongtrinh\bin\Debug\Bai3-phuongtrinh.pdb
+D:\Document\visual-programming\code\Bai3-phuongtrinh\Bai3-phuongtrinh\obj\Debug\Bai3-phuongtrinh.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Bai3-phuongtrinh\Bai3-phuongtrinh\obj\Debug\Bai3_phuongtrinh.Form1.resources
+D:\Document\visual-programming\code\Bai3-phuongtrinh\Bai3-phuongtrinh\obj\Debug\Bai3_phuongtrinh.Properties.Resources.resources
+D:\Document\visual-programming\code\Bai3-phuongtrinh\Bai3-phuongtrinh\obj\Debug\Bai3-phuongtrinh.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\Bai3-phuongtrinh\Bai3-phuongtrinh\obj\Debug\Bai3-phuongtrinh.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Bai3-phuongtrinh\Bai3-phuongtrinh\obj\Debug\Bai3-phuongtrinh.exe
+D:\Document\visual-programming\code\Bai3-phuongtrinh\Bai3-phuongtrinh\obj\Debug\Bai3-phuongtrinh.pdb
+D:\Document\visual-programming\code\Bai3-phuongtrinh\Bai3-phuongtrinh\obj\Debug\Bai3-phuongtrinh.exe.config
