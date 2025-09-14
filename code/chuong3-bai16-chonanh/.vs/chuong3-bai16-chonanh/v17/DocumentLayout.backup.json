@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\visual-programming\\code\\chuong3-bai16-chonanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{622A835C-C39E-4D2B-A83B-302FED6CE366}|chuong3-bai16-chonanh\\chuong3-bai16-chonanh.csproj|d:\\document\\visual-programming\\code\\chuong3-bai16-chonanh\\chuong3-bai16-chonanh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{622A835C-C39E-4D2B-A83B-302FED6CE366}|chuong3-bai16-chonanh\\chuong3-bai16-chonanh.csproj|solutionrelative:chuong3-bai16-chonanh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622A835C-C39E-4D2B-A83B-302FED6CE366}|chuong3-bai16-chonanh\\chuong3-bai16-chonanh.csproj|d:\\document\\visual-programming\\code\\chuong3-bai16-chonanh\\chuong3-bai16-chonanh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622A835C-C39E-4D2B-A83B-302FED6CE366}|chuong3-bai16-chonanh\\chuong3-bai16-chonanh.csproj|solutionrelative:chuong3-bai16-chonanh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\chuong3-bai16-chonanh\\chuong3-bai16-chonanh\\Form1.cs",
+              "RelativeDocumentMoniker": "chuong3-bai16-chonanh\\Form1.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\chuong3-bai16-chonanh\\chuong3-bai16-chonanh\\Form1.cs*",
+              "RelativeToolTip": "chuong3-bai16-chonanh\\Form1.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:52:31.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\chuong3-bai16-chonanh\\chuong3-bai16-chonanh\\Form1.cs",
+              "RelativeDocumentMoniker": "chuong3-bai16-chonanh\\Form1.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\chuong3-bai16-chonanh\\chuong3-bai16-chonanh\\Form1.cs [Design]*",
+              "RelativeToolTip": "chuong3-bai16-chonanh\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:50:15.114Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

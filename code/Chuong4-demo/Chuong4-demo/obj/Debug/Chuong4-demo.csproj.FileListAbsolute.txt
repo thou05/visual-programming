@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\Chuong4-demo\Chuong4-demo\bin\Debug\Chuong4-demo.exe.config
+D:\Document\visual-programming\code\Chuong4-demo\Chuong4-demo\bin\Debug\Chuong4-demo.exe
+D:\Document\visual-programming\code\Chuong4-demo\Chuong4-demo\bin\Debug\Chuong4-demo.pdb
+D:\Document\visual-programming\code\Chuong4-demo\Chuong4-demo\obj\Debug\Chuong4-demo.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Chuong4-demo\Chuong4-demo\obj\Debug\Chuong4_demo.Form1.resources
+D:\Document\visual-programming\code\Chuong4-demo\Chuong4-demo\obj\Debug\Chuong4_demo.Properties.Resources.resources
+D:\Document\visual-programming\code\Chuong4-demo\Chuong4-demo\obj\Debug\Chuong4-demo.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\Chuong4-demo\Chuong4-demo\obj\Debug\Chuong4-demo.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Chuong4-demo\Chuong4-demo\obj\Debug\Chuong4-demo.exe
+D:\Document\visual-programming\code\Chuong4-demo\Chuong4-demo\obj\Debug\Chuong4-demo.pdb
+D:\Document\visual-programming\code\Chuong4-demo\Chuong4-demo\obj\Debug\Chuong4-demo.exe.config

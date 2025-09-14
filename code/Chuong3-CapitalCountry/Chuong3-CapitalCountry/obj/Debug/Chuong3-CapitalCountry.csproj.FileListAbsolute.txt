@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\Chuong3-CapitalCountry\Chuong3-CapitalCountry\bin\Debug\Chuong3-CapitalCountry.exe.config
+D:\Document\visual-programming\code\Chuong3-CapitalCountry\Chuong3-CapitalCountry\bin\Debug\Chuong3-CapitalCountry.exe
+D:\Document\visual-programming\code\Chuong3-CapitalCountry\Chuong3-CapitalCountry\bin\Debug\Chuong3-CapitalCountry.pdb
+D:\Document\visual-programming\code\Chuong3-CapitalCountry\Chuong3-CapitalCountry\obj\Debug\Chuong3-CapitalCountry.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Chuong3-CapitalCountry\Chuong3-CapitalCountry\obj\Debug\Chuong3_CapitalCountry.Form1.resources
+D:\Document\visual-programming\code\Chuong3-CapitalCountry\Chuong3-CapitalCountry\obj\Debug\Chuong3_CapitalCountry.Properties.Resources.resources
+D:\Document\visual-programming\code\Chuong3-CapitalCountry\Chuong3-CapitalCountry\obj\Debug\Chuong3-CapitalCountry.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\Chuong3-CapitalCountry\Chuong3-CapitalCountry\obj\Debug\Chuong3-CapitalCountry.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Chuong3-CapitalCountry\Chuong3-CapitalCountry\obj\Debug\Chuong3-CapitalCountry.exe
+D:\Document\visual-programming\code\Chuong3-CapitalCountry\Chuong3-CapitalCountry\obj\Debug\Chuong3-CapitalCountry.pdb
+D:\Document\visual-programming\code\Chuong3-CapitalCountry\Chuong3-CapitalCountry\obj\Debug\Chuong3-CapitalCountry.exe.config

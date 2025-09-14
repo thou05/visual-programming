@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\chuong3-bai16-chonanh\chuong3-bai16-chonanh\bin\Debug\chuong3-bai16-chonanh.exe.config
+D:\Document\visual-programming\code\chuong3-bai16-chonanh\chuong3-bai16-chonanh\bin\Debug\chuong3-bai16-chonanh.exe
+D:\Document\visual-programming\code\chuong3-bai16-chonanh\chuong3-bai16-chonanh\bin\Debug\chuong3-bai16-chonanh.pdb
+D:\Document\visual-programming\code\chuong3-bai16-chonanh\chuong3-bai16-chonanh\obj\Debug\chuong3-bai16-chonanh.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\chuong3-bai16-chonanh\chuong3-bai16-chonanh\obj\Debug\chuong3_bai16_chonanh.Form1.resources
+D:\Document\visual-programming\code\chuong3-bai16-chonanh\chuong3-bai16-chonanh\obj\Debug\chuong3_bai16_chonanh.Properties.Resources.resources
+D:\Document\visual-programming\code\chuong3-bai16-chonanh\chuong3-bai16-chonanh\obj\Debug\chuong3-bai16-chonanh.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\chuong3-bai16-chonanh\chuong3-bai16-chonanh\obj\Debug\chuong3-bai16-chonanh.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\chuong3-bai16-chonanh\chuong3-bai16-chonanh\obj\Debug\chuong3-bai16-chonanh.exe
+D:\Document\visual-programming\code\chuong3-bai16-chonanh\chuong3-bai16-chonanh\obj\Debug\chuong3-bai16-chonanh.pdb
+D:\Document\visual-programming\code\chuong3-bai16-chonanh\chuong3-bai16-chonanh\obj\Debug\chuong3-bai16-chonanh.exe.config

@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\Chuong3-bai2-dayso\Chuong3-bai2-dayso\bin\Debug\Chuong3-bai2-dayso.exe.config
+D:\Document\visual-programming\code\Chuong3-bai2-dayso\Chuong3-bai2-dayso\bin\Debug\Chuong3-bai2-dayso.exe
+D:\Document\visual-programming\code\Chuong3-bai2-dayso\Chuong3-bai2-dayso\bin\Debug\Chuong3-bai2-dayso.pdb
+D:\Document\visual-programming\code\Chuong3-bai2-dayso\Chuong3-bai2-dayso\obj\Debug\Chuong3-bai2-dayso.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Chuong3-bai2-dayso\Chuong3-bai2-dayso\obj\Debug\Chuong3_bai2_dayso.Form1.resources
+D:\Document\visual-programming\code\Chuong3-bai2-dayso\Chuong3-bai2-dayso\obj\Debug\Chuong3_bai2_dayso.Properties.Resources.resources
+D:\Document\visual-programming\code\Chuong3-bai2-dayso\Chuong3-bai2-dayso\obj\Debug\Chuong3-bai2-dayso.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\Chuong3-bai2-dayso\Chuong3-bai2-dayso\obj\Debug\Chuong3-bai2-dayso.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Chuong3-bai2-dayso\Chuong3-bai2-dayso\obj\Debug\Chuong3-bai2-dayso.exe
+D:\Document\visual-programming\code\Chuong3-bai2-dayso\Chuong3-bai2-dayso\obj\Debug\Chuong3-bai2-dayso.pdb
+D:\Document\visual-programming\code\Chuong3-bai2-dayso\Chuong3-bai2-dayso\obj\Debug\Chuong3-bai2-dayso.exe.config

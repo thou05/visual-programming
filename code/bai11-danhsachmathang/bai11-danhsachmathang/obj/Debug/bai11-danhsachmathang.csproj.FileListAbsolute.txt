@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\bai11-danhsachmathang\bai11-danhsachmathang\bin\Debug\bai11-danhsachmathang.exe.config
+D:\Document\visual-programming\code\bai11-danhsachmathang\bai11-danhsachmathang\bin\Debug\bai11-danhsachmathang.exe
+D:\Document\visual-programming\code\bai11-danhsachmathang\bai11-danhsachmathang\bin\Debug\bai11-danhsachmathang.pdb
+D:\Document\visual-programming\code\bai11-danhsachmathang\bai11-danhsachmathang\obj\Debug\bai11-danhsachmathang.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\bai11-danhsachmathang\bai11-danhsachmathang\obj\Debug\bai11_danhsachmathang.Form1.resources
+D:\Document\visual-programming\code\bai11-danhsachmathang\bai11-danhsachmathang\obj\Debug\bai11_danhsachmathang.Properties.Resources.resources
+D:\Document\visual-programming\code\bai11-danhsachmathang\bai11-danhsachmathang\obj\Debug\bai11-danhsachmathang.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\bai11-danhsachmathang\bai11-danhsachmathang\obj\Debug\bai11-danhsachmathang.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\bai11-danhsachmathang\bai11-danhsachmathang\obj\Debug\bai11-danhsachmathang.exe
+D:\Document\visual-programming\code\bai11-danhsachmathang\bai11-danhsachmathang\obj\Debug\bai11-danhsachmathang.pdb
+D:\Document\visual-programming\code\bai11-danhsachmathang\bai11-danhsachmathang\obj\Debug\bai11-danhsachmathang.exe.config

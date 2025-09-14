@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\bai3-phuongtrinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|d:\\document\\visual-programming\\code\\bai3-phuongtrinh\\bai3-phuongtrinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|solutionrelative:bai3-phuongtrinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|d:\\document\\visual-programming\\code\\bai3-phuongtrinh\\bai3-phuongtrinh\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\bai3-phuongtrinh\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|solutionrelative:bai3-phuongtrinh\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -46,8 +50,7 @@
               "RelativeToolTip": "Bai3-phuongtrinh\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T09:14:14.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T09:14:14.682Z"
             },
             {
               "$type": "Document",
@@ -59,8 +62,7 @@
               "RelativeToolTip": "Bai3-phuongtrinh\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T09:13:46.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T09:13:46.534Z"
             },
             {
               "$type": "Document",
@@ -71,8 +73,7 @@
               "ToolTip": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Form1.resx",
               "RelativeToolTip": "Bai3-phuongtrinh\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-08-24T09:13:44.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T09:13:44.038Z"
             },
             {
               "$type": "Document",
@@ -82,7 +83,7 @@
               "RelativeDocumentMoniker": "Bai3-phuongtrinh\\Form1.cs",
               "ToolTip": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Form1.cs",
               "RelativeToolTip": "Bai3-phuongtrinh\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T06:29:43.939Z",
               "EditorCaption": ""
@@ -108,8 +109,7 @@
               "ToolTip": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Form1.cs [Design]",
               "RelativeToolTip": "Bai3-phuongtrinh\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T06:20:46.679Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-08-24T06:20:46.679Z"
             }
           ]
         }

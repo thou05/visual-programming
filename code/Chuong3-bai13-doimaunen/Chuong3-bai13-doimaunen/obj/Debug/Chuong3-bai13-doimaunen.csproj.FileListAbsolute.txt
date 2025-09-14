@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\Chuong3-bai13-doimaunen\Chuong3-bai13-doimaunen\bin\Debug\Chuong3-bai13-doimaunen.exe.config
+D:\Document\visual-programming\code\Chuong3-bai13-doimaunen\Chuong3-bai13-doimaunen\bin\Debug\Chuong3-bai13-doimaunen.exe
+D:\Document\visual-programming\code\Chuong3-bai13-doimaunen\Chuong3-bai13-doimaunen\bin\Debug\Chuong3-bai13-doimaunen.pdb
+D:\Document\visual-programming\code\Chuong3-bai13-doimaunen\Chuong3-bai13-doimaunen\obj\Debug\Chuong3-bai13-doimaunen.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Chuong3-bai13-doimaunen\Chuong3-bai13-doimaunen\obj\Debug\Chuong3_bai13_doimaunen.Form1.resources
+D:\Document\visual-programming\code\Chuong3-bai13-doimaunen\Chuong3-bai13-doimaunen\obj\Debug\Chuong3_bai13_doimaunen.Properties.Resources.resources
+D:\Document\visual-programming\code\Chuong3-bai13-doimaunen\Chuong3-bai13-doimaunen\obj\Debug\Chuong3-bai13-doimaunen.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\Chuong3-bai13-doimaunen\Chuong3-bai13-doimaunen\obj\Debug\Chuong3-bai13-doimaunen.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Chuong3-bai13-doimaunen\Chuong3-bai13-doimaunen\obj\Debug\Chuong3-bai13-doimaunen.exe
+D:\Document\visual-programming\code\Chuong3-bai13-doimaunen\Chuong3-bai13-doimaunen\obj\Debug\Chuong3-bai13-doimaunen.pdb
+D:\Document\visual-programming\code\Chuong3-bai13-doimaunen\Chuong3-bai13-doimaunen\obj\Debug\Chuong3-bai13-doimaunen.exe.config

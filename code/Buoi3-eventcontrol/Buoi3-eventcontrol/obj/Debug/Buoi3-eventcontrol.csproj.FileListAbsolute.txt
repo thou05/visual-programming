@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\Buoi3-eventcontrol\Buoi3-eventcontrol\bin\Debug\Buoi3-eventcontrol.exe.config
+D:\Document\visual-programming\code\Buoi3-eventcontrol\Buoi3-eventcontrol\bin\Debug\Buoi3-eventcontrol.exe
+D:\Document\visual-programming\code\Buoi3-eventcontrol\Buoi3-eventcontrol\bin\Debug\Buoi3-eventcontrol.pdb
+D:\Document\visual-programming\code\Buoi3-eventcontrol\Buoi3-eventcontrol\obj\Debug\Buoi3-eventcontrol.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Buoi3-eventcontrol\Buoi3-eventcontrol\obj\Debug\Buoi3_eventcontrol.Form1.resources
+D:\Document\visual-programming\code\Buoi3-eventcontrol\Buoi3-eventcontrol\obj\Debug\Buoi3_eventcontrol.Properties.Resources.resources
+D:\Document\visual-programming\code\Buoi3-eventcontrol\Buoi3-eventcontrol\obj\Debug\Buoi3-eventcontrol.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\Buoi3-eventcontrol\Buoi3-eventcontrol\obj\Debug\Buoi3-eventcontrol.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Buoi3-eventcontrol\Buoi3-eventcontrol\obj\Debug\Buoi3-eventcontrol.exe
+D:\Document\visual-programming\code\Buoi3-eventcontrol\Buoi3-eventcontrol\obj\Debug\Buoi3-eventcontrol.pdb
+D:\Document\visual-programming\code\Buoi3-eventcontrol\Buoi3-eventcontrol\obj\Debug\Buoi3-eventcontrol.exe.config
