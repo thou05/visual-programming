@@ -1,0 +1,12 @@
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\bin\Debug\TH2-VD1.exe.config
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\bin\Debug\TH2-VD1.exe
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\bin\Debug\TH2-VD1.pdb
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\obj\Debug\TH2-VD1.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\obj\Debug\TH2_VD1.Form1.resources
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\obj\Debug\TH2_VD1.Properties.Resources.resources
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\obj\Debug\TH2-VD1.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\obj\Debug\TH2-VD1.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\obj\Debug\TH2-VD1.exe
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\obj\Debug\TH2-VD1.pdb
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\obj\Debug\TH2-VD1.exe.config
+D:\Document\visual-programming\code\TH2-VD1\TH2-VD1\obj\Debug\TH2_VD1.Form2.resources

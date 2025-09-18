@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\TH2-Bai1\TH2-Bai1\bin\Debug\TH2-Bai1.exe.config
+D:\Document\visual-programming\code\TH2-Bai1\TH2-Bai1\bin\Debug\TH2-Bai1.exe
+D:\Document\visual-programming\code\TH2-Bai1\TH2-Bai1\bin\Debug\TH2-Bai1.pdb
+D:\Document\visual-programming\code\TH2-Bai1\TH2-Bai1\obj\Debug\TH2-Bai1.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\TH2-Bai1\TH2-Bai1\obj\Debug\TH2_Bai1.Form1.resources
+D:\Document\visual-programming\code\TH2-Bai1\TH2-Bai1\obj\Debug\TH2_Bai1.Properties.Resources.resources
+D:\Document\visual-programming\code\TH2-Bai1\TH2-Bai1\obj\Debug\TH2-Bai1.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\TH2-Bai1\TH2-Bai1\obj\Debug\TH2-Bai1.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\TH2-Bai1\TH2-Bai1\obj\Debug\TH2-Bai1.exe
+D:\Document\visual-programming\code\TH2-Bai1\TH2-Bai1\obj\Debug\TH2-Bai1.pdb
+D:\Document\visual-programming\code\TH2-Bai1\TH2-Bai1\obj\Debug\TH2-Bai1.exe.config

@@ -3,28 +3,31 @@
   "WorkspaceRootPath": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|d:\\document\\visual-programming\\code\\bai3-phuongtrinh\\bai3-phuongtrinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\bai3-phuongtrinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|solutionrelative:bai3-phuongtrinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\bai3-phuongtrinh\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|solutionrelative:bai3-phuongtrinh\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\bai3-phuongtrinh\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|solutionrelative:bai3-phuongtrinh\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\bai3-phuongtrinh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|solutionrelative:bai3-phuongtrinh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\bai3-phuongtrinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|solutionrelative:bai3-phuongtrinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\bai3-phuongtrinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|d:\\document\\visual-programming\\code\\bai3-phuongtrinh\\bai3-phuongtrinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|solutionrelative:bai3-phuongtrinh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\bai3-phuongtrinh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|solutionrelative:bai3-phuongtrinh\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Bai3-phuongtrinh||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\bai3-phuongtrinh\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|solutionrelative:bai3-phuongtrinh\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\bai3-phuongtrinh\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B46A882-1138-488D-B056-2D4235643BF7}|Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj|solutionrelative:bai3-phuongtrinh\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +37,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Bai3-phuongtrinh",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj",
+              "RelativeDocumentMoniker": "Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj",
+              "RelativeToolTip": "Bai3-phuongtrinh\\Bai3-phuongtrinh.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T01:47:47.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Bai3-phuongtrinh\\Properties\\AssemblyInfo.cs",
@@ -58,18 +80,20 @@
               "RelativeToolTip": "Bai3-phuongtrinh\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T09:13:46.534Z"
+              "WhenOpened": "2025-08-24T09:13:46.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.resx",
               "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Form1.resx",
               "RelativeDocumentMoniker": "Bai3-phuongtrinh\\Form1.resx",
               "ToolTip": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Form1.resx",
               "RelativeToolTip": "Bai3-phuongtrinh\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-08-24T09:13:44.038Z"
+              "WhenOpened": "2025-08-24T09:13:44.038Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,14 +103,14 @@
               "RelativeDocumentMoniker": "Bai3-phuongtrinh\\Form1.cs",
               "ToolTip": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Form1.cs",
               "RelativeToolTip": "Bai3-phuongtrinh\\Form1.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAswGcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAD4v30AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T06:29:43.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Program.cs",
               "RelativeDocumentMoniker": "Bai3-phuongtrinh\\Program.cs",
@@ -94,18 +118,20 @@
               "RelativeToolTip": "Bai3-phuongtrinh\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T06:21:08.094Z"
+              "WhenOpened": "2025-08-24T06:21:08.094Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Form1.cs",
               "RelativeDocumentMoniker": "Bai3-phuongtrinh\\Form1.cs",
               "ToolTip": "D:\\Document\\visual-programming\\code\\Bai3-phuongtrinh\\Bai3-phuongtrinh\\Form1.cs [Design]",
               "RelativeToolTip": "Bai3-phuongtrinh\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T06:20:46.679Z"
+              "WhenOpened": "2025-08-24T06:20:46.679Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

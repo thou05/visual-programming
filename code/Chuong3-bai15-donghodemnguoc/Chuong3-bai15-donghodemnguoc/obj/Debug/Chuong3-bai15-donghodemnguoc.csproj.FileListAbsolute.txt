@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\Chuong3-bai15-donghodemnguoc\Chuong3-bai15-donghodemnguoc\bin\Debug\Chuong3-bai15-donghodemnguoc.exe.config
+D:\Document\visual-programming\code\Chuong3-bai15-donghodemnguoc\Chuong3-bai15-donghodemnguoc\bin\Debug\Chuong3-bai15-donghodemnguoc.exe
+D:\Document\visual-programming\code\Chuong3-bai15-donghodemnguoc\Chuong3-bai15-donghodemnguoc\bin\Debug\Chuong3-bai15-donghodemnguoc.pdb
+D:\Document\visual-programming\code\Chuong3-bai15-donghodemnguoc\Chuong3-bai15-donghodemnguoc\obj\Debug\Chuong3-bai15-donghodemnguoc.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Chuong3-bai15-donghodemnguoc\Chuong3-bai15-donghodemnguoc\obj\Debug\Chuong3_bai15_donghodemnguoc.Form1.resources
+D:\Document\visual-programming\code\Chuong3-bai15-donghodemnguoc\Chuong3-bai15-donghodemnguoc\obj\Debug\Chuong3_bai15_donghodemnguoc.Properties.Resources.resources
+D:\Document\visual-programming\code\Chuong3-bai15-donghodemnguoc\Chuong3-bai15-donghodemnguoc\obj\Debug\Chuong3-bai15-donghodemnguoc.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\Chuong3-bai15-donghodemnguoc\Chuong3-bai15-donghodemnguoc\obj\Debug\Chuong3-bai15-donghodemnguoc.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Chuong3-bai15-donghodemnguoc\Chuong3-bai15-donghodemnguoc\obj\Debug\Chuong3-bai15-donghodemnguoc.exe
+D:\Document\visual-programming\code\Chuong3-bai15-donghodemnguoc\Chuong3-bai15-donghodemnguoc\obj\Debug\Chuong3-bai15-donghodemnguoc.pdb
+D:\Document\visual-programming\code\Chuong3-bai15-donghodemnguoc\Chuong3-bai15-donghodemnguoc\obj\Debug\Chuong3-bai15-donghodemnguoc.exe.config
