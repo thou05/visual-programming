@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\bt-chuong4and5-onclass\bt-chuong4and5-onclass\obj\Debug\bt-chuong4and5-onclass.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\bt-chuong4and5-onclass\bt-chuong4and5-onclass\obj\Debug\bt_chuong4and5_onclass.Form1.resources
+D:\Document\visual-programming\code\bt-chuong4and5-onclass\bt-chuong4and5-onclass\obj\Debug\bt_chuong4and5_onclass.Properties.Resources.resources
+D:\Document\visual-programming\code\bt-chuong4and5-onclass\bt-chuong4and5-onclass\obj\Debug\bt-chuong4and5-onclass.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\bt-chuong4and5-onclass\bt-chuong4and5-onclass\obj\Debug\bt-chuong4and5-onclass.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\bt-chuong4and5-onclass\bt-chuong4and5-onclass\bin\Debug\bt-chuong4and5-onclass.exe.config
+D:\Document\visual-programming\code\bt-chuong4and5-onclass\bt-chuong4and5-onclass\bin\Debug\bt-chuong4and5-onclass.exe
+D:\Document\visual-programming\code\bt-chuong4and5-onclass\bt-chuong4and5-onclass\bin\Debug\bt-chuong4and5-onclass.pdb
+D:\Document\visual-programming\code\bt-chuong4and5-onclass\bt-chuong4and5-onclass\obj\Debug\bt-chuong4and5-onclass.exe
+D:\Document\visual-programming\code\bt-chuong4and5-onclass\bt-chuong4and5-onclass\obj\Debug\bt-chuong4and5-onclass.pdb
+D:\Document\visual-programming\code\bt-chuong4and5-onclass\bt-chuong4and5-onclass\obj\Debug\bt-chuong4and5-onclass.exe.config

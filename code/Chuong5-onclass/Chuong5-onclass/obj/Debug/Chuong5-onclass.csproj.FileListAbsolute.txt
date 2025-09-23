@@ -1,0 +1,12 @@
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\bin\Debug\Chuong5-onclass.exe.config
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\bin\Debug\Chuong5-onclass.exe
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\bin\Debug\Chuong5-onclass.pdb
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\obj\Debug\Chuong5-onclass.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\obj\Debug\Chuong5_onclass.Form1.resources
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\obj\Debug\Chuong5_onclass.Properties.Resources.resources
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\obj\Debug\Chuong5-onclass.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\obj\Debug\Chuong5-onclass.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\obj\Debug\Chuong5-onclass.exe
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\obj\Debug\Chuong5-onclass.pdb
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\obj\Debug\Chuong5-onclass.exe.config
+D:\Document\visual-programming\code\Chuong5-onclass\Chuong5-onclass\obj\Debug\Chuong5_onclass.sanpham.frmSanPham.resources
