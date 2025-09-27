@@ -1,0 +1,15 @@
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\bin\Debug\TH3-Bai3nghenhac.exe.config
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\bin\Debug\TH3-Bai3nghenhac.exe
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\bin\Debug\TH3-Bai3nghenhac.pdb
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\bin\Debug\Interop.WMPLib.dll
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\bin\Debug\AxInterop.WMPLib.dll
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\obj\Debug\TH3-Bai3nghenhac.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\obj\Debug\Interop.WMPLib.dll
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\obj\Debug\AxInterop.WMPLib.dll
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\obj\Debug\TH3-Bai3nghenhac.csproj.ResolveComReference.cache
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\obj\Debug\TH3_Bai3nghenhac.Form1.resources
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\obj\Debug\TH3_Bai3nghenhac.Properties.Resources.resources
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\obj\Debug\TH3-Bai3nghenhac.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\obj\Debug\TH3-Bai3nghenhac.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\obj\Debug\TH3-Bai3nghenhac.exe
+D:\Document\visual-programming\code\TH3-Bai3nghenhac\TH3-Bai3nghenhac\obj\Debug\TH3-Bai3nghenhac.pdb

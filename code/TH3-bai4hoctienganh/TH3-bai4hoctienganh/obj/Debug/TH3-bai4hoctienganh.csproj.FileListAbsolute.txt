@@ -1,0 +1,12 @@
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\obj\Debug\TH3-bai4hoctienganh.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\obj\Debug\TH3_bai4hoctienganh.fDienTu1.resources
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\obj\Debug\TH3_bai4hoctienganh.fMenu.resources
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\obj\Debug\TH3_bai4hoctienganh.Properties.Resources.resources
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\obj\Debug\TH3-bai4hoctienganh.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\obj\Debug\TH3-bai4hoctienganh.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\bin\Debug\TH3-bai4hoctienganh.exe.config
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\bin\Debug\TH3-bai4hoctienganh.exe
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\bin\Debug\TH3-bai4hoctienganh.pdb
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\obj\Debug\TH3-bai4hoctienganh.exe
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\obj\Debug\TH3-bai4hoctienganh.pdb
+D:\Document\visual-programming\code\TH3-bai4hoctienganh\TH3-bai4hoctienganh\obj\Debug\TH3-bai4hoctienganh.exe.config
