@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\TH4-banhang\TH4-banhang\bin\Debug\TH4-banhang.exe.config
+D:\Document\visual-programming\code\TH4-banhang\TH4-banhang\bin\Debug\TH4-banhang.exe
+D:\Document\visual-programming\code\TH4-banhang\TH4-banhang\bin\Debug\TH4-banhang.pdb
+D:\Document\visual-programming\code\TH4-banhang\TH4-banhang\obj\Debug\TH4-banhang.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\TH4-banhang\TH4-banhang\obj\Debug\TH4_banhang.Form1.resources
+D:\Document\visual-programming\code\TH4-banhang\TH4-banhang\obj\Debug\TH4_banhang.Properties.Resources.resources
+D:\Document\visual-programming\code\TH4-banhang\TH4-banhang\obj\Debug\TH4-banhang.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\TH4-banhang\TH4-banhang\obj\Debug\TH4-banhang.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\TH4-banhang\TH4-banhang\obj\Debug\TH4-banhang.exe
+D:\Document\visual-programming\code\TH4-banhang\TH4-banhang\obj\Debug\TH4-banhang.pdb
+D:\Document\visual-programming\code\TH4-banhang\TH4-banhang\obj\Debug\TH4-banhang.exe.config

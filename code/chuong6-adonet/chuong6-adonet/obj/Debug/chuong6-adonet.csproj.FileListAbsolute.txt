@@ -1,0 +1,11 @@
+D:\Document\visual-programming\code\chuong6-adonet\chuong6-adonet\bin\Debug\chuong6-adonet.exe.config
+D:\Document\visual-programming\code\chuong6-adonet\chuong6-adonet\bin\Debug\chuong6-adonet.exe
+D:\Document\visual-programming\code\chuong6-adonet\chuong6-adonet\bin\Debug\chuong6-adonet.pdb
+D:\Document\visual-programming\code\chuong6-adonet\chuong6-adonet\obj\Debug\chuong6-adonet.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\chuong6-adonet\chuong6-adonet\obj\Debug\chuong6_adonet.Form1.resources
+D:\Document\visual-programming\code\chuong6-adonet\chuong6-adonet\obj\Debug\chuong6_adonet.Properties.Resources.resources
+D:\Document\visual-programming\code\chuong6-adonet\chuong6-adonet\obj\Debug\chuong6-adonet.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\chuong6-adonet\chuong6-adonet\obj\Debug\chuong6-adonet.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\chuong6-adonet\chuong6-adonet\obj\Debug\chuong6-adonet.exe
+D:\Document\visual-programming\code\chuong6-adonet\chuong6-adonet\obj\Debug\chuong6-adonet.pdb
+D:\Document\visual-programming\code\chuong6-adonet\chuong6-adonet\obj\Debug\chuong6-adonet.exe.config

@@ -1,0 +1,16 @@
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\bin\Debug\Chuong6-banhangluuniem.exe.config
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\bin\Debug\Chuong6-banhangluuniem.exe
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\bin\Debug\Chuong6-banhangluuniem.pdb
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6-banhangluuniem.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6_banhangluuniem.Properties.Resources.resources
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6-banhangluuniem.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6-banhangluuniem.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6-banhangluuniem.exe
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6-banhangluuniem.pdb
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6-banhangluuniem.exe.config
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6_banhangluuniem.DanhMuc.frmChatLieu.resources
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6_banhangluuniem.DanhMuc.frmSanPham.resources
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6_banhangluuniem.frmMain.resources
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6_banhangluuniem.DanhMuc.frmKhachHang.resources
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6_banhangluuniem.DanhMuc.frmNhanVien.resources
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6-banhangluuniem.csproj.ResolveComReference.cache
