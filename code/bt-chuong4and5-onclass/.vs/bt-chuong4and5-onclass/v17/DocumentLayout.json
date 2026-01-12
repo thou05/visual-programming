@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{17D91391-F779-473E-A411-82D452523448}|bt-chuong4and5-onclass\\bt-chuong4and5-onclass.csproj|solutionrelative:bt-chuong4and5-onclass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17D91391-F779-473E-A411-82D452523448}|bt-chuong4and5-onclass\\bt-chuong4and5-onclass.csproj|d:\\document\\visual-programming\\code\\bt-chuong4and5-onclass\\bt-chuong4and5-onclass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{17D91391-F779-473E-A411-82D452523448}|bt-chuong4and5-onclass\\bt-chuong4and5-onclass.csproj|D:\\Document\\visual-programming\\code\\bt-chuong4and5-onclass\\bt-chuong4and5-onclass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{17D91391-F779-473E-A411-82D452523448}|bt-chuong4and5-onclass\\bt-chuong4and5-onclass.csproj|solutionrelative:bt-chuong4and5-onclass\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -29,6 +33,10 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
@@ -36,7 +44,7 @@
               "RelativeDocumentMoniker": "bt-chuong4and5-onclass\\Form1.cs",
               "ToolTip": "D:\\Document\\visual-programming\\code\\bt-chuong4and5-onclass\\bt-chuong4and5-onclass\\Form1.cs",
               "RelativeToolTip": "bt-chuong4and5-onclass\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T09:38:56.45Z",
               "EditorCaption": ""
@@ -50,12 +58,7 @@
               "ToolTip": "D:\\Document\\visual-programming\\code\\bt-chuong4and5-onclass\\bt-chuong4and5-onclass\\Form1.cs [Design]",
               "RelativeToolTip": "bt-chuong4and5-onclass\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T09:28:25.874Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2025-09-22T09:28:25.874Z"
             }
           ]
         }

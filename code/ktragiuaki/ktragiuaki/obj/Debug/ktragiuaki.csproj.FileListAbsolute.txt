@@ -1,0 +1,12 @@
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\obj\Debug\ktragiuaki.csproj.AssemblyReference.cache
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\obj\Debug\ktragiuaki.csproj.ResolveComReference.cache
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\obj\Debug\ktragiuaki.Form1.resources
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\obj\Debug\ktragiuaki.Properties.Resources.resources
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\obj\Debug\ktragiuaki.csproj.GenerateResource.cache
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\obj\Debug\ktragiuaki.csproj.CoreCompileInputs.cache
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\bin\Debug\ktragiuaki.exe.config
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\bin\Debug\ktragiuaki.exe
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\bin\Debug\ktragiuaki.pdb
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\obj\Debug\ktragiuaki.exe
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\obj\Debug\ktragiuaki.pdb
+D:\Document\visual-programming\code\ktragiuaki\ktragiuaki\obj\Debug\ktragiuaki.exe.config

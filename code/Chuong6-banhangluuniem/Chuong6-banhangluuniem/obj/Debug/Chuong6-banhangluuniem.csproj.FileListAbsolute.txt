@@ -14,3 +14,5 @@ D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluunie
 D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6_banhangluuniem.DanhMuc.frmKhachHang.resources
 D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6_banhangluuniem.DanhMuc.frmNhanVien.resources
 D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6-banhangluuniem.csproj.ResolveComReference.cache
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6_banhangluuniem.DangNhap.frmLogin.resources
+D:\Document\visual-programming\code\Chuong6-banhangluuniem\Chuong6-banhangluuniem\obj\Debug\Chuong6_banhangluuniem.HoaDon.frmHoaDonBan.resources

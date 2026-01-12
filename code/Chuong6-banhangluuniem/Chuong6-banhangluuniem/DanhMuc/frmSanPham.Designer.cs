@@ -185,6 +185,7 @@
             this.cboChatLieu.Name = "cboChatLieu";
             this.cboChatLieu.Size = new System.Drawing.Size(73, 21);
             this.cboChatLieu.TabIndex = 14;
+            this.cboChatLieu.SelectedIndexChanged += new System.EventHandler(this.cboChatLieu_SelectedIndexChanged);
             // 
             // btnAnh
             // 
@@ -213,6 +214,7 @@
             this.btnTim.TabIndex = 17;
             this.btnTim.Text = "Tìm kiếm";
             this.btnTim.UseVisualStyleBackColor = true;
+            this.btnTim.Click += new System.EventHandler(this.btnTim_Click);
             // 
             // btnExcel
             // 
@@ -302,6 +304,7 @@
             this.picAnh.Location = new System.Drawing.Point(472, 58);
             this.picAnh.Name = "picAnh";
             this.picAnh.Size = new System.Drawing.Size(170, 103);
+            this.picAnh.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picAnh.TabIndex = 20;
             this.picAnh.TabStop = false;
             // 

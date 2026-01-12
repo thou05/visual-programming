@@ -303,5 +303,15 @@ namespace Chuong6_banhangluuniem.DanhMuc
             //b7: thoat khoi ung dung
             exApp.Quit();
         }
+
+        private void cboChatLieu_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTim_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

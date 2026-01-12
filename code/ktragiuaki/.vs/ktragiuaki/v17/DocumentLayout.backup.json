@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\visual-programming\\code\\ktragiuaki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96E68AE-0C91-4357-BBDE-45ECF1665255}|ktragiuaki\\ktragiuaki.csproj|d:\\document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96E68AE-0C91-4357-BBDE-45ECF1665255}|ktragiuaki\\ktragiuaki.csproj|solutionrelative:ktragiuaki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96E68AE-0C91-4357-BBDE-45ECF1665255}|ktragiuaki\\ktragiuaki.csproj|d:\\document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96E68AE-0C91-4357-BBDE-45ECF1665255}|ktragiuaki\\ktragiuaki.csproj|solutionrelative:ktragiuaki\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96E68AE-0C91-4357-BBDE-45ECF1665255}|ktragiuaki\\ktragiuaki.csproj|d:\\document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96E68AE-0C91-4357-BBDE-45ECF1665255}|ktragiuaki\\ktragiuaki.csproj|solutionrelative:ktragiuaki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96E68AE-0C91-4357-BBDE-45ECF1665255}|ktragiuaki\\ktragiuaki.csproj|d:\\document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D96E68AE-0C91-4357-BBDE-45ECF1665255}|ktragiuaki\\ktragiuaki.csproj|solutionrelative:ktragiuaki\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\Program.cs",
+              "RelativeDocumentMoniker": "ktragiuaki\\Program.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\Program.cs",
+              "RelativeToolTip": "ktragiuaki\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:07:08.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\Form1.cs",
+              "RelativeDocumentMoniker": "ktragiuaki\\Form1.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\Form1.cs",
+              "RelativeToolTip": "ktragiuaki\\Form1.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAywAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T00:36:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProcesser.cs",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\Classes\\DataProcesser.cs",
+              "RelativeDocumentMoniker": "ktragiuaki\\Classes\\DataProcesser.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\Classes\\DataProcesser.cs",
+              "RelativeToolTip": "ktragiuaki\\Classes\\DataProcesser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T00:39:44.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\Form1.cs",
+              "RelativeDocumentMoniker": "ktragiuaki\\Form1.cs",
+              "ToolTip": "D:\\Document\\visual-programming\\code\\ktragiuaki\\ktragiuaki\\Form1.cs [Design]",
+              "RelativeToolTip": "ktragiuaki\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T00:28:14.919Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1038,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

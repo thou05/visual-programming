@@ -1,4 +1,5 @@
-﻿using Chuong6_banhangluuniem.DanhMuc;
+﻿using Chuong6_banhangluuniem.DangNhap;
+using Chuong6_banhangluuniem.DanhMuc;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -13,6 +14,7 @@ namespace Chuong6_banhangluuniem
 {
     public partial class frmMain : Form
     {
+        public static string username = "";
         public frmMain()
         {
             InitializeComponent();
@@ -50,6 +52,25 @@ namespace Chuong6_banhangluuniem
             this.Hide();
             frmKhachHang frmKhachHang = new frmKhachHang();
             frmKhachHang.ShowDialog();
+            this.Show();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmMain_Load(object sender, EventArgs e)
+        {
+            frmLogin flogin = new frmLogin();
+            lblDangNhap.Text = "Xin chào: " + username;
+        }
+
+        private void mnuHoaDonBan_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            HoaDon.frmHoaDonBan frmHoaDonBan = new HoaDon.frmHoaDonBan();
+            frmHoaDonBan.ShowDialog();
             this.Show();
         }
     }
